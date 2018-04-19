@@ -1,0 +1,2027 @@
+<div>
+<p>Updating table as accurately as possible. Please check physical board for most up to date schedule!</p>
+<p>
+  <br/>
+</p>
+<h2>First Segment</h2>
+<table class="relative-table wrapped" style="width: 100.0%;">
+  <colgroup>
+    <col style="width: 2.62453%;"/>
+    <col style="width: 10.7659%;"/>
+    <col style="width: 10.0696%;"/>
+    <col style="width: 10.2303%;"/>
+    <col style="width: 10.1768%;"/>
+    <col style="width: 11.4622%;"/>
+    <col style="width: 10.9802%;"/>
+    <col style="width: 12.2657%;"/>
+    <col style="width: 10.7124%;"/>
+    <col style="width: 10.7124%;"/>
+  </colgroup>
+  <tbody>
+    <tr class="xtr-0">
+      <th class="xtd-0-0">
+        <br/>
+      </th>
+      <th class="xtd-0-1">A (Bengals)</th>
+      <th class="xtd-0-2">B (Reds)</th>
+      <th class="xtd-0-3">C (Cyclones)</th>
+      <th class="xtd-0-4">D (Bearcats)</th>
+      <th class="xtd-0-5">A-01 (Buckeyes)</th>
+      <th class="xtd-0-6">E1</th>
+      <th class="xtd-0-7">E2</th>
+      <th class="xtd-0-8">E3</th>
+      <th class="xtd-0-9">E4</th>
+    </tr>
+    <tr class="xtr-1">
+      <th class="xtd-1-0">1:30 - 1:55</th>
+      <td class="xtd-1-1">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0">Title</th>
+              <td class="xtd-0-1">
+                <span>I hate Omniture!</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0">Suggester</th>
+              <td class="xtd-1-1">
+                <span>Jeff Bloomer</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0">Description</th>
+              <td class="xtd-2-1">
+                <span>A discussion about user analytics</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0">Level</th>
+              <td class="xtd-3-1">Beginner, Intermediate</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0">Type</th>
+              <td class="xtd-4-1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0">Focus</th>
+              <td class="xtd-5-1">Analytic, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0">Language</th>
+              <td class="xtd-6-1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">Omniture, Analytics</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-2">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0">Title</th>
+              <td class="xtd-0-1">
+                <span>Digital Blog - to be or not to be?</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0">Suggester</th>
+              <td class="xtd-1-1">
+                <span>Emilia Bacca</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0">Description</th>
+              <td class="xtd-2-1">
+                <span>Help us answer the question above, new ideas, what do we need, what's the value</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0">Level</th>
+              <td class="xtd-3-1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0">Type</th>
+              <td class="xtd-4-1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0">Focus</th>
+              <td class="xtd-5-1">Analytical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0">Language</th>
+              <td class="xtd-6-1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0">Tags</th>
+              <td class="xtd-7-1">Connectivity, Culture</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-3">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <span>Online Payment</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1">
+                <span>Zach Thacker</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1">
+                <span>What steps are involved in getting paid for clicklist orders?</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1">Presentation</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1">Analytical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1">Java</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1">pay, ClickList</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-4">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <span>GCP Q&amp;A (Session 1)</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1">
+                <span>Nick, Geoff Tipton, Andy, Vic</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1">
+                <p>Open Q:A about GCP.</p>
+                <p>We also want to learn more about what people hope to get out of GCP.</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1">Beginner, Intermediate, Advanced</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1">Technical, Analytical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1">Yes</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          <br/>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </td>
+      <td class="xtd-1-5">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <span>Machine Learning performance measures</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1">
+                <span>Brian Connolly</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1">
+                <span>Discussion of how they relate to business analytics</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1">Presentation, Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-6">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <span>Big Data: a missed opportunity</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1">
+                <span>Jaime Kaufman</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1">
+                <p>Benefits of Big Data</p>
+                <p>Lack of support and funding</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1">Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1">Big Data</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-7">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <span>I wrote code, now how do I run it?</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1">
+                <span>David L</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1">
+                <p>
+                  <span>Deployment pipelines?</span>
+                </p>
+                <p>Databases?</p>
+                <p>Environments?</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1">Deploy</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-8">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <span>Functional Lenses and other topics</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1">
+                <span>Anthony Isaacs, Ronn Ross</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1">Beginner, Intermediate</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1">JS, Haskell</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-9">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Customer training?</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1">
+                <span>Paul Cameron</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1">
+                <span>How we can help our customers love us through education</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1">Workshop</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1">Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr class="xtr-2">
+      <th class="xtd-2-0">2:05 - 2:30</th>
+      <td class="xtd-2-1">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <span>Infra - Boy</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <span>Nate Mara</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>If you hate Infra, but have to use it for support, Infra-Boy is your new best friend!</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Presentation</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">Ops, chat, demo</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-2">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Better layouts with 8 - point grid</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Anthony Isaacs, Ronn Ross</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>Learn about the new design system for Seamless sites</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Presentation, Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">HTML, CSS</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">UI</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-3">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Kotlin - why we went all in</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Not Hotdogs</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>Why we chose Kotlin? Conversion, details, Scala next!</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">Kotlin</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-4">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Breaking out of the feature factory</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Mary Ries</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Teams want to have more involvement in planning their work</p>
+                <p>More satisfaction</p>
+                <p>More investment</p>
+                <p>More motivation</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Intermediate</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-5">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Developing Soft Skills</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <span>Shankar Krishnakumar</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Why?</p>
+                <p>Leadership</p>
+                <ul>
+                  <li>what</li>
+                  <li>why</li>
+                </ul>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-6">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Onboarding new hires</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Tylan Matthiesen</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>What are teams currently doing?</p>
+                <p>What's available?</p>
+                <p>What's missing?</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">onboarding, new hire</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-7">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Digital Only Change Management Tool Process</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Lisa McKenzie</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>Do we need a change management process within digital independent of BTC</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-8">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Data = $</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Fola Soboyejo, Lauren McDonald</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>How do we demonstrate our data and manage it in a rapidly changing and Agile environment?</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Analytical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-9">
+        <br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <br/>
+</p>
+<h2>Second Segment</h2>
+<table class="wrapped relative-table" style="width: 100.0%;">
+  <colgroup>
+    <col style="width: 5.8131%;"/>
+    <col style="width: 13.3186%;"/>
+    <col style="width: 9.86019%;"/>
+    <col style="width: 12.5092%;"/>
+    <col style="width: 14.7903%;"/>
+    <col style="width: 14.128%;"/>
+    <col style="width: 14.5695%;"/>
+    <col style="width: 9.27152%;"/>
+    <col style="width: 2.86976%;"/>
+    <col style="width: 2.86976%;"/>
+  </colgroup>
+  <tbody>
+    <tr class="xtr-0">
+      <th class="xtd-0-0">
+        <br/>
+      </th>
+      <th class="xtd-0-1">A (Bengals)</th>
+      <th class="xtd-0-2">B (Reds)</th>
+      <th class="xtd-0-3">C (Cyclones)</th>
+      <th class="xtd-0-4">D (Bearcats)</th>
+      <th class="xtd-0-5">A-01 (Buckeyes)</th>
+      <th class="xtd-0-6">E1</th>
+      <th class="xtd-0-7">E2</th>
+      <th class="xtd-0-8">E3</th>
+      <th class="xtd-0-9">E4</th>
+    </tr>
+    <tr class="xtr-1">
+      <th class="xtd-1-0">2:45 - 3:10</th>
+      <td class="xtd-1-1">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Kick Start a Project</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Ted Tollefson</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Automated:</p>
+                <ul>
+                  <li>SPM creation</li>
+                  <li>Service accounts</li>
+                  <li>Network setup</li>
+                  <li>and more</li>
+                </ul>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Presentation, Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">automation, cloud, project setup</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-2">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Testing w/ Jest</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Josh Owens</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>Getting started with Jest testing</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Presentation</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">JS</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-3">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>How stores get time slots</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Robert Landreaux</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>How division e-commerce managers use CapStone, the internal tool for managing store time slots</p>
+                <p>How the tool works</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">Java, JavaScript, React/Redux</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-4">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Growing devs w/ Apprenticeship</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Chris Nelson</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>How it works</p>
+                <p>Q&amp;A</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-5">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>As a customer I wish I could ...</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Anna H and Susan K</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>What annoys you about the site?</p>
+                <p>What features would make us stand out?</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-6">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Game Development - Let's chat</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Sam Vaughn</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Meet others interested in game dev (no experience needed)</p>
+                <p>Discuss how to apply game dev ideas at Digital</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-7">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>TLS &amp; Certs</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Vic V</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>TLS overview</p>
+                <ul>
+                  <li>1 way and 2 way</li>
+                  <li>CA's</li>
+                  <li>etc</li>
+                </ul>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner, Intermediate</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Presentation, Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">security</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-1-8">
+        <br/>
+      </td>
+      <td class="xtd-1-9">
+        <br/>
+      </td>
+    </tr>
+    <tr class="xtr-2">
+      <th class="xtd-2-0">3:20 - 3:45</th>
+      <td class="xtd-2-1">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Sign In</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Conard Carroll, Sunil Bapat</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>Intro to Kroger site authentication and session management</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-2">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Web Dev w/o a JS framework</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Chris Nelson</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>Building a web app w/ Vanilla JS web components</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-3">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Site Reliability Engineering</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Prateek Negi</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Do you have it in you?</p>
+                <p>What SRE is?</p>
+                <p>We will fix all operations issues</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Presentation</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">SRE</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-4">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Can a large company deliver value in vertical slices</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Mary Ries</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>We tend toward big upfront design: develop services first then develop UI.</p>
+                <p>Can we do better?</p>
+                <p>Which delivers value faster?</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Intermediate</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-5">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Core skills in Java/Spring/Boot</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Pete</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>New to Java/JVM?</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner, Intermediate, Advanced</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical, Analytical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">Java</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-6">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Building a remote culture</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <span>Bruce Hubbard</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Business</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-7">
+        <br/>
+      </td>
+      <td class="xtd-2-8">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1" colspan="1">
+                <span>I hate Omniture!</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <span>Jeff Bloomer</span>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>A discussion about user analytics</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner, Intermediate</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Analytic, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">Onniture, Analytics</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-2-9">
+        <br/>
+      </td>
+    </tr>
+    <tr class="xtr-3">
+      <th class="xtd-3-0">3:55 - 4:20</th>
+      <td class="xtd-3-1">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Web Dev from design to CSS</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Pedro Cardona</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <span>&lt;div&gt; Presentation on how to accurately and cleanly translate a design document into the appropriate HTML and CSS &lt;/div&gt;</span>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Intermediate</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Presentation</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">HTML, CSS</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">FlexBox, Workflow, UI</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-3-2">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Public API leveraging existing tech</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>James Ralston</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>How to use existing services</p>
+                <p>Design mindset</p>
+                <p>Performance and reliability</p>
+                <p>other things!</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner, Intermediate</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical, Analytical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-3-3">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Big Data analytics - Current Capabilities</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Jaime Kaufman</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Current datasets available</p>
+                <p>Current capabilities you may not be aware of</p>
+                <p>How your team and Kroger could benefit!</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Analytical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">Big Data, Analytics</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-3-4">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>Microservice Templates</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Hananiel Sarella</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Accelerating Service development</p>
+                <p>Common problems and solutions</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">
+                <p>Beginner, Intermediate, Advanced</p>
+              </td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">Java, Spring Boot, JVM</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-3-5">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <p>GCP Q&amp;A (Session 2)</p>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Nick, Geoff Tipton, Andy, Vic</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Open Q:A about GCP.</p>
+                <p>We also want to learn more about what people hope to get out of GCP.</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner, Intermediate, Advanced</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical, Analytical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">Yes</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-3-6">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">
+                <span>CSS Animations - Creating Playful UI</span>
+              </td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">
+                <p>Sam Vaughn</p>
+              </td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">
+                <p>Share ideas</p>
+                <p>Examples</p>
+                <p>Currently at Digital</p>
+                <p>Prototyping w/CodePen</p>
+              </td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">CSS</td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">UI, UX, Awesome</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-3-7">
+        <br/>
+      </td>
+      <td class="xtd-3-8">
+        <table class="wrapped">
+          <tbody>
+            <tr class="xtr-0">
+              <th class="xtd-0-0" colspan="1">Title</th>
+              <td class="xtd-0-1">All Things MOBILE</td>
+            </tr>
+            <tr class="xtr-1">
+              <th class="xtd-1-0" colspan="1">Suggester</th>
+              <td class="xtd-1-1" colspan="1">Mike C., Shane King</td>
+            </tr>
+            <tr class="xtr-2">
+              <th class="xtd-2-0" colspan="1">Description</th>
+              <td class="xtd-2-1" colspan="1">Mobile team Q&amp;A, fireside chat</td>
+            </tr>
+            <tr class="xtr-3">
+              <th class="xtd-3-0" colspan="1">Level</th>
+              <td class="xtd-3-1" colspan="1">Beginner</td>
+            </tr>
+            <tr class="xtr-4">
+              <th class="xtd-4-0" colspan="1">Type</th>
+              <td class="xtd-4-1" colspan="1">Discussion</td>
+            </tr>
+            <tr class="xtr-5">
+              <th class="xtd-5-0" colspan="1">Focus</th>
+              <td class="xtd-5-1" colspan="1">Technical, Business</td>
+            </tr>
+            <tr class="xtr-6">
+              <th class="xtd-6-0" colspan="1">Language</th>
+              <td class="xtd-6-1" colspan="1">
+                <br/>
+              </td>
+            </tr>
+            <tr class="xtr-7">
+              <th class="xtd-7-0" colspan="1">Tags</th>
+              <td class="xtd-7-1" colspan="1">Mobile, iOS, Android</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td class="xtd-3-9">
+        <br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <ac:image ac:height="250" ac:thumbnail="true">
+      <ri:attachment ri:filename="unconference_segment_1.jpeg"/>
+    </ac:image>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <ac:image ac:height="250" ac:thumbnail="true">
+      <ri:attachment ri:filename="unconference_segment_2.jpeg"/>
+    </ac:image>
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+<div>
+  <span style="white-space: pre-wrap;">
+    <br/>
+  </span>
+</div>
+</div>

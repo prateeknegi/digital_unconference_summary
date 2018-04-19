@@ -1,0 +1,79 @@
+A discussion about user analytics
+Help us answer the question above, new ideas, what do we need, what's the value
+What steps are involved in getting paid for clicklist orders?
+Open Q:A about GCP.
+                We also want to learn more about what people hope to get out of GCP.
+Discussion of how they relate to business analytics
+Benefits of Big Data
+                Lack of support and funding
+Deployment pipelines?
+                
+                Databases?
+                Environments?
+
+How we can help our customers love us through education
+If you hate Infra, but have to use it for support, Infra-Boy is your new best friend!
+Learn about the new design system for Seamless sites
+Why we chose Kotlin? Conversion, details, Scala next!
+Teams want to have more involvement in planning their work
+                More satisfaction
+                More investment
+                More motivation
+Why?
+                Leadership
+                
+                  what
+                  why
+What are teams currently doing?
+                What's available?
+                What's missing?
+Do we need a change management process within digital independent of BTC
+How do we demonstrate our data and manage it in a rapidly changing and Agile environment?
+Automated:
+                
+                  SPM creation
+                  Service accounts
+                  Network setup
+                  and more
+Getting started with Jest testing
+How division e-commerce managers use CapStone, the internal tool for managing store time slots
+                How the tool works
+How it works
+                Q&A
+What annoys you about the site?
+                What features would make us stand out?
+Meet others interested in game dev (no experience needed)
+                Discuss how to apply game dev ideas at Digital
+TLS overview
+                
+                  1 way and 2 way
+                  CA's
+                  etc
+Intro to Kroger site authentication and session management
+Building a web app w/ Vanilla JS web components
+Do you have it in you?
+                What SRE is?
+                We will fix all operations issues
+We tend toward big upfront design: develop services first then develop UI.
+                Can we do better?
+                Which delivers value faster?
+New to Java/JVM?
+Beginner
+A discussion about user analytics
+<div> Presentation on how to accurately and cleanly translate a design document into the appropriate HTML and CSS </div>
+How to use existing services
+                Design mindset
+                Performance and reliability
+                other things!
+Current datasets available
+                Current capabilities you may not be aware of
+                How your team and Kroger could benefit!
+Accelerating Service development
+                Common problems and solutions
+Open Q:A about GCP.
+                We also want to learn more about what people hope to get out of GCP.
+Share ideas
+                Examples
+                Currently at Digital
+                Prototyping w/CodePen
+Mobile team Q&A, fireside chat

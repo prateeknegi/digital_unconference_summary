@@ -1,0 +1,38 @@
+I hate Omniture!
+Digital Blog - to be or not to be?
+Online Payment
+GCP Q&A (Session 1)
+Machine Learning performance measures
+Big Data: a missed opportunity
+I wrote code, now how do I run it?
+Functional Lenses and other topics
+Customer training?
+Infra - Boy
+Better layouts with 8 - point grid
+Kotlin - why we went all in
+Breaking out of the feature factory
+Developing Soft Skills
+Onboarding new hires
+Digital Only Change Management Tool Process
+Data = $
+Kick Start a Project
+Testing w/ Jest
+How stores get time slots
+Growing devs w/ Apprenticeship
+As a customer I wish I could ...
+Game Development - Let's chat
+TLS & Certs
+Sign In
+Web Dev w/o a JS framework
+Site Reliability Engineering
+Can a large company deliver value in vertical slices
+Core skills in Java/Spring/Boot
+Building a remote culture
+I hate Omniture!
+Web Dev from design to CSS
+Public API leveraging existing tech
+Big Data analytics - Current Capabilities
+Microservice Templates
+GCP Q&A (Session 2)
+CSS Animations - Creating Playful UI
+All Things MOBILE
